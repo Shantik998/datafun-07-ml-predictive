@@ -7,7 +7,6 @@
 # The california dataset is a built-in dataset in the scikit-learn library, which is a machine learning library for Python. This dataset contains information about the housing prices in various districts in California, as well as other attributes such as population, median income, and the number of rooms per house.
 - Importing different library modules like pandas, numpy, matplotlib and seaborn, scikit-learn
 - Using statistical fuction to show relation between differnt variables.
-- Use of built-in-functions like min(),max(),len() etc.
 - Exporatorary data analysis using hist, pairplot and correlation function .
 - used built-in dataset 'california' which has 20640 data and 8 variables.
 - Understood the concept of Machine learning. 
