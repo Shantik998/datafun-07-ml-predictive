@@ -1,10 +1,10 @@
 # datafun-07-ml-predictive
 ## Shanti Kandel
 ### Data Analytics Fundamentals
-### project 7- task 5
+### project 7
 ### 02/25/2023
 
-# The california dataset is a built-in dataset in the scikit-learn library, which is a machine learning library for Python. This dataset contains information about the housing prices in various districts in California, as well as other attributes such as population, median income, and the number of rooms per house.
+## The california dataset is a built-in dataset in the scikit-learn library, which is a machine learning library for Python. This dataset contains information about the housing prices in various districts in California, as well as other attributes such as population, median income, and the number of rooms per house.
 - Importing different library modules like pandas, numpy, matplotlib and seaborn, scikit-learn
 - Using statistical fuction to show relation between differnt variables.
 - Exporatorary data analysis using hist, pairplot and correlation function .
